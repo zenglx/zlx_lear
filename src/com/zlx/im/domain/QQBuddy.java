@@ -1,0 +1,7 @@
+package com.zlx.im.domain;
+
+public class QQBuddy {
+	public long account;// ’À∫≈ QQ∫≈
+	public String nick = "";// Í«≥∆
+	public int avatar;// Õ∑œÒ
+}
